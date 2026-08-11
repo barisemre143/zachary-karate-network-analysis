@@ -1,0 +1,31 @@
+{
+  "network_type": "Yönsüz, ağırlıksız, basit ağ",
+  "nodes": 34,
+  "edges": 78,
+  "density": 0.13903743315508021,
+  "mean_degree": 4.588235294117647,
+  "median_degree": 3.0,
+  "min_degree": 1,
+  "max_degree": 17,
+  "average_clustering": 0.5706384782076823,
+  "transitivity": 0.2556818181818182,
+  "components": 1,
+  "component_sizes": [
+    34
+  ],
+  "average_shortest_path": 2.408199643493761,
+  "diameter": 5,
+  "degree_assortativity": -0.47561309768461413,
+  "girvan_newman_community_sizes": [
+    15,
+    19
+  ],
+  "girvan_newman_modularity": 0.3476602762317048,
+  "girvan_newman_accuracy": 0.9411764705882353,
+  "girvan_newman_ari": 0.7717250324254216,
+  "girvan_newman_nmi": 0.7323776321005694,
+  "mann_whitney_u": 161.5,
+  "mann_whitney_p": 0.5608523448153101,
+  "spearman_degree_betweenness_rho": 0.9049410229587102,
+  "spearman_degree_betweenness_p": 2.05382937435968e-13
+}
